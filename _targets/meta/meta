@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+build_model|function|f8fc7c5c27b1d956|||||||||||||||
+chart|stem|ed2df287c42688f3|92c2b518aa43abdb|8ae2d521d7236d08|360191201||t19439.5576574234s|f3336fe44aacdd88|45009|rds|local|vector|||0.03||
+generate_report|function|98482eebe75b8c5e|||||||||||||||
+get_data|function|b12c7d7064f1f86a|||||||||||||||
+model|stem|4c9d0e6b9372772b|aeb09e086f2e4e98|a85131b9419f4a27|1816327236||t19439.5542793939s|afd3962e58818c3f|2828|rds|local|vector|||0.01||
+process_data|function|0b9100f69bfe6b73|||||||||||||||
+processed_data|stem|5035b7062f578f76|4295a269ccedde5a|ad8f15210ef7f2cd|1423143877||t19439.5542775059s|f3154327e79ea5df|905|rds|local|vector|||0.03||
+produce_chart|function|e625d096cb48f403|||||||||||||||
+raw_data|stem|a14467f18ff08e41|f0c78c8250679058|76ce33396aceb35a|-979620141||t19439.554274867s|aeb9e822999ebdfa|90108|rds|local|vector|||1.05||
+report|stem|ebad84665810b33b|d0e0b3ea2d23f776|11791508c04fa89c|-237041703||t19439.5576598271s|93a4d4dc4116d568|64|rds|local|vector|||0||
